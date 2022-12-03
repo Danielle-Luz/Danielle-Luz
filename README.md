@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielle-Luz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Danielle-Luz&theme=gotham&hide_border=true&area=true)
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Danielle-Luz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -26,7 +24,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"> 
 </div>
 
 <div align="center">
@@ -44,10 +43,13 @@
 ![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
+![StyledComponents](https://img.shields.io/badge/-styledcomponents-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
   
 ### Estudando:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"> 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
