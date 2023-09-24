@@ -42,11 +42,8 @@
 ### Ferramentas
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-NetBeans-0D1117?style=for-the-badge&logo=netbeans&labelColor=0D1117">
-  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=photoshop&labelColor=0D1117">
   <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117">
+  <img src="https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=photoshop&labelColor=0D1117">
 
 ### Outras habilidades:
 ![Salesforce](https://img.shields.io/badge/-Salesforce-0D1117?style=for-the-badge&logo=salesforce&labelColor=0D1117)&nbsp;
@@ -54,7 +51,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/-styledcomponents-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 
   
